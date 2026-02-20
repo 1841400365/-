@@ -1,0 +1,3 @@
+/home/juhaifeng/workspace/lq_2k0301_project_template/output/CMakeFiles/main.dir
+/home/juhaifeng/workspace/lq_2k0301_project_template/output/CMakeFiles/edit_cache.dir
+/home/juhaifeng/workspace/lq_2k0301_project_template/output/CMakeFiles/rebuild_cache.dir
